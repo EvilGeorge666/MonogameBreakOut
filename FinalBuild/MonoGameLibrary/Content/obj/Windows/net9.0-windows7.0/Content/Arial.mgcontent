@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>C:/Users/evilg/OneDrive/Desktop/Monogame/BreakOutFA26/BreakOutMonogame/FinalBuild/MonoGameLibrary/Content/Arial.spritefont</SourceFile>
+  <SourceTime>2026-11-09T14:25:36.1469217-06:00</SourceTime>
+  <DestFile>C:/Users/evilg/OneDrive/Desktop/Monogame/BreakOutFA26/BreakOutMonogame/FinalBuild/MonoGameLibrary/Content/bin/Windows/Content/Arial.xnb</DestFile>
+  <DestTime>2026-11-17T14:24:49.4552423-06:00</DestTime>
+  <Importer>FontDescriptionImporter</Importer>
+  <ImporterTime>2026-08-14T16:50:10-05:00</ImporterTime>
+  <Processor>FontDescriptionProcessor</Processor>
+  <ProcessorTime>2026-08-14T16:50:10-05:00</ProcessorTime>
+  <Parameters>
+    <Key>PremultiplyAlpha</Key>
+    <Value>True</Value>
+  </Parameters>
+  <Parameters>
+    <Key>TextureFormat</Key>
+    <Value>Compressed</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

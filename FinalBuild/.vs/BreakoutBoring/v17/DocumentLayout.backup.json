@@ -1,0 +1,165 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\evilg\\OneDrive\\Desktop\\Monogame\\BreakOutFA26\\BreakOutMonogame\\FinalBuild\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4CE0E70A-CA12-4720-AC00-74BC1BC24FC7}|BreakoutBoring\\BreakoutBoring.csproj|c:\\users\\evilg\\onedrive\\desktop\\monogame\\breakoutfa26\\breakoutmonogame\\finalbuild\\breakoutboring\\monogameblock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CE0E70A-CA12-4720-AC00-74BC1BC24FC7}|BreakoutBoring\\BreakoutBoring.csproj|solutionrelative:breakoutboring\\monogameblock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CE0E70A-CA12-4720-AC00-74BC1BC24FC7}|BreakoutBoring\\BreakoutBoring.csproj|c:\\users\\evilg\\onedrive\\desktop\\monogame\\breakoutfa26\\breakoutmonogame\\finalbuild\\breakoutboring\\blockmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CE0E70A-CA12-4720-AC00-74BC1BC24FC7}|BreakoutBoring\\BreakoutBoring.csproj|solutionrelative:breakoutboring\\blockmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CE0E70A-CA12-4720-AC00-74BC1BC24FC7}|BreakoutBoring\\BreakoutBoring.csproj|c:\\users\\evilg\\onedrive\\desktop\\monogame\\breakoutfa26\\breakoutmonogame\\finalbuild\\breakoutboring\\scoremanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CE0E70A-CA12-4720-AC00-74BC1BC24FC7}|BreakoutBoring\\BreakoutBoring.csproj|solutionrelative:breakoutboring\\scoremanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CE0E70A-CA12-4720-AC00-74BC1BC24FC7}|BreakoutBoring\\BreakoutBoring.csproj|c:\\users\\evilg\\onedrive\\desktop\\monogame\\breakoutfa26\\breakoutmonogame\\finalbuild\\breakoutboring\\paddle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CE0E70A-CA12-4720-AC00-74BC1BC24FC7}|BreakoutBoring\\BreakoutBoring.csproj|solutionrelative:breakoutboring\\paddle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CE0E70A-CA12-4720-AC00-74BC1BC24FC7}|BreakoutBoring\\BreakoutBoring.csproj|c:\\users\\evilg\\onedrive\\desktop\\monogame\\breakoutfa26\\breakoutmonogame\\finalbuild\\breakoutboring\\paddlecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CE0E70A-CA12-4720-AC00-74BC1BC24FC7}|BreakoutBoring\\BreakoutBoring.csproj|solutionrelative:breakoutboring\\paddlecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CE0E70A-CA12-4720-AC00-74BC1BC24FC7}|BreakoutBoring\\BreakoutBoring.csproj|c:\\users\\evilg\\onedrive\\desktop\\monogame\\breakoutfa26\\breakoutmonogame\\finalbuild\\breakoutboring\\block.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CE0E70A-CA12-4720-AC00-74BC1BC24FC7}|BreakoutBoring\\BreakoutBoring.csproj|solutionrelative:breakoutboring\\block.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CE0E70A-CA12-4720-AC00-74BC1BC24FC7}|BreakoutBoring\\BreakoutBoring.csproj|c:\\users\\evilg\\onedrive\\desktop\\monogame\\breakoutfa26\\breakoutmonogame\\finalbuild\\breakoutboring\\toughblock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CE0E70A-CA12-4720-AC00-74BC1BC24FC7}|BreakoutBoring\\BreakoutBoring.csproj|solutionrelative:breakoutboring\\toughblock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CE0E70A-CA12-4720-AC00-74BC1BC24FC7}|BreakoutBoring\\BreakoutBoring.csproj|c:\\users\\evilg\\onedrive\\desktop\\monogame\\breakoutfa26\\breakoutmonogame\\finalbuild\\breakoutboring\\bigblock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CE0E70A-CA12-4720-AC00-74BC1BC24FC7}|BreakoutBoring\\BreakoutBoring.csproj|solutionrelative:breakoutboring\\bigblock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CE0E70A-CA12-4720-AC00-74BC1BC24FC7}|BreakoutBoring\\BreakoutBoring.csproj|c:\\users\\evilg\\onedrive\\desktop\\monogame\\breakoutfa26\\breakoutmonogame\\finalbuild\\breakoutboring\\nukeblock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CE0E70A-CA12-4720-AC00-74BC1BC24FC7}|BreakoutBoring\\BreakoutBoring.csproj|solutionrelative:breakoutboring\\nukeblock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ScoreManager.cs",
+              "DocumentMoniker": "C:\\Users\\evilg\\OneDrive\\Desktop\\Monogame\\BreakOutFA26\\BreakOutMonogame\\FinalBuild\\BreakoutBoring\\ScoreManager.cs",
+              "RelativeDocumentMoniker": "BreakoutBoring\\ScoreManager.cs",
+              "ToolTip": "C:\\Users\\evilg\\OneDrive\\Desktop\\Monogame\\BreakOutFA26\\BreakOutMonogame\\FinalBuild\\BreakoutBoring\\ScoreManager.cs",
+              "RelativeToolTip": "BreakoutBoring\\ScoreManager.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-14T21:00:42.488Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ToughBlock.cs",
+              "DocumentMoniker": "C:\\Users\\evilg\\OneDrive\\Desktop\\Monogame\\BreakOutFA26\\BreakOutMonogame\\FinalBuild\\BreakoutBoring\\ToughBlock.cs",
+              "RelativeDocumentMoniker": "BreakoutBoring\\ToughBlock.cs",
+              "ToolTip": "C:\\Users\\evilg\\OneDrive\\Desktop\\Monogame\\BreakOutFA26\\BreakOutMonogame\\FinalBuild\\BreakoutBoring\\ToughBlock.cs",
+              "RelativeToolTip": "BreakoutBoring\\ToughBlock.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-14T17:36:29.698Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BigBlock.cs",
+              "DocumentMoniker": "C:\\Users\\evilg\\OneDrive\\Desktop\\Monogame\\BreakOutFA26\\BreakOutMonogame\\FinalBuild\\BreakoutBoring\\BigBlock.cs",
+              "RelativeDocumentMoniker": "BreakoutBoring\\BigBlock.cs",
+              "ToolTip": "C:\\Users\\evilg\\OneDrive\\Desktop\\Monogame\\BreakOutFA26\\BreakOutMonogame\\FinalBuild\\BreakoutBoring\\BigBlock.cs",
+              "RelativeToolTip": "BreakoutBoring\\BigBlock.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-10T20:52:11.588Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "NukeBlock.cs",
+              "DocumentMoniker": "C:\\Users\\evilg\\OneDrive\\Desktop\\Monogame\\BreakOutFA26\\BreakOutMonogame\\FinalBuild\\BreakoutBoring\\NukeBlock.cs",
+              "RelativeDocumentMoniker": "BreakoutBoring\\NukeBlock.cs",
+              "ToolTip": "C:\\Users\\evilg\\OneDrive\\Desktop\\Monogame\\BreakOutFA26\\BreakOutMonogame\\FinalBuild\\BreakoutBoring\\NukeBlock.cs",
+              "RelativeToolTip": "BreakoutBoring\\NukeBlock.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-10T01:01:38.423Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BlockManager.cs",
+              "DocumentMoniker": "C:\\Users\\evilg\\OneDrive\\Desktop\\Monogame\\BreakOutFA26\\BreakOutMonogame\\FinalBuild\\BreakoutBoring\\BlockManager.cs",
+              "RelativeDocumentMoniker": "BreakoutBoring\\BlockManager.cs",
+              "ToolTip": "C:\\Users\\evilg\\OneDrive\\Desktop\\Monogame\\BreakOutFA26\\BreakOutMonogame\\FinalBuild\\BreakoutBoring\\BlockManager.cs",
+              "RelativeToolTip": "BreakoutBoring\\BlockManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE8AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-09T20:51:43.779Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Block.cs",
+              "DocumentMoniker": "C:\\Users\\evilg\\OneDrive\\Desktop\\Monogame\\BreakOutFA26\\BreakOutMonogame\\FinalBuild\\BreakoutBoring\\Block.cs",
+              "RelativeDocumentMoniker": "BreakoutBoring\\Block.cs",
+              "ToolTip": "C:\\Users\\evilg\\OneDrive\\Desktop\\Monogame\\BreakOutFA26\\BreakOutMonogame\\FinalBuild\\BreakoutBoring\\Block.cs",
+              "RelativeToolTip": "BreakoutBoring\\Block.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-09T20:36:57.041Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PaddleController.cs",
+              "DocumentMoniker": "C:\\Users\\evilg\\OneDrive\\Desktop\\Monogame\\BreakOutFA26\\BreakOutMonogame\\FinalBuild\\BreakoutBoring\\PaddleController.cs",
+              "RelativeDocumentMoniker": "BreakoutBoring\\PaddleController.cs",
+              "ToolTip": "C:\\Users\\evilg\\OneDrive\\Desktop\\Monogame\\BreakOutFA26\\BreakOutMonogame\\FinalBuild\\BreakoutBoring\\PaddleController.cs",
+              "RelativeToolTip": "BreakoutBoring\\PaddleController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-09T20:27:49.03Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Paddle.cs",
+              "DocumentMoniker": "C:\\Users\\evilg\\OneDrive\\Desktop\\Monogame\\BreakOutFA26\\BreakOutMonogame\\FinalBuild\\BreakoutBoring\\Paddle.cs",
+              "RelativeDocumentMoniker": "BreakoutBoring\\Paddle.cs",
+              "ToolTip": "C:\\Users\\evilg\\OneDrive\\Desktop\\Monogame\\BreakOutFA26\\BreakOutMonogame\\FinalBuild\\BreakoutBoring\\Paddle.cs",
+              "RelativeToolTip": "BreakoutBoring\\Paddle.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAACcAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-09T20:29:48.421Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MonogameBlock.cs",
+              "DocumentMoniker": "C:\\Users\\evilg\\OneDrive\\Desktop\\Monogame\\BreakOutFA26\\BreakOutMonogame\\FinalBuild\\BreakoutBoring\\MonogameBlock.cs",
+              "RelativeDocumentMoniker": "BreakoutBoring\\MonogameBlock.cs",
+              "ToolTip": "C:\\Users\\evilg\\OneDrive\\Desktop\\Monogame\\BreakOutFA26\\BreakOutMonogame\\FinalBuild\\BreakoutBoring\\MonogameBlock.cs",
+              "RelativeToolTip": "BreakoutBoring\\MonogameBlock.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-09T20:36:25.981Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
